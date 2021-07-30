@@ -7,3 +7,5 @@ the HTML document to better adhere to recommended accessibility guidelines.
 
 Repetition of elements within the CSS style sheet has been minimized, while added comments provide brief descriptions of each element and its properties as they
 relate to the main landing page.
+
+<img width="800" alt="Screen Shot 2021-07-30 at 11 14 18 AM" src="https://user-images.githubusercontent.com/86588318/127688954-812f4ef3-461e-4f2c-88ab-639fb2fce4d2.png">
