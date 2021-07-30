@@ -4,49 +4,53 @@
     margin: 0;
 }
 
+/* Universal background and font color unless otherwise specified */
 body {
     background-color: #d9dcd6;
-}
-
-header {
-    padding: 20px;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    background-color: #2a607c;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     color: #ffffff;
 }
 
+/* Main header space at top of landing page */
+header {
+    padding: 20px;
+    background-color: #2a607c;
+}
+
+/* "Horiseon" in header */
 h1 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     display: inline-block;
     font-size: 48px;
 }
 
+/* Subtle shading of "seo" within "Horiseon" */
 .seo {
     color: #d9dcd6;
 }
 
+/* Navigation bar in header */
 nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
 
-nav ul {
-    list-style-type: none;
-}
-
+/* Sets horizontal positioning of navigation bar, along with spacing between each link in navigation bar */
 nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
 
+/* Styles links within navigation bar */
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
-.hero {
+/* Specifications for main image across landing page under header area */
+figure {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
@@ -55,44 +59,50 @@ a {
     background-position: center;
 }
 
+/* Sizing of all main body copy on landing page */
 p {
     font-size: 16px;
 }
 
+/* Sets width of Horiseon capability section across landing page */
 section {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
+/* Spaces margins and sets background color for each div box for Horiseon capability descriptions */
 section div {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
-    color: #ffffff;
 }
 
+/* Sets height for images within each div box for Horiseon capability descriptions */
 section img {
     max-height: 200px;
 }
 
+/* Styles h2 heading within each div box for Horiseon capability descriptions  */
 section h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
+/* Will position image on left side of Horiseon capability text description */
 .float-left {
     float: left;
     margin-right: 25px;
 }
 
+/* Will position image on right side of Horiseon capability text description */
 .float-right {
     float: right;
     margin-left: 25px;
 }
 
+/* Styling and positioning of sidebar on right side of page */
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -100,33 +110,37 @@ aside {
     float: right;
     width: 20%;
     height: 100%;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
 
+/* Spaces margins for each Horiseon core foundation section in sidebar */
 aside div {
     margin-bottom: 32px;
-    color: #ffffff;
 }
 
+/* Styles headings for each Horiseon core foundation section in sidebar */
 aside h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
+/* Styles icons for each Horiseon core foundation section in sidebar */
 aside img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
+/* Positioning and font specifications of footer area at bottom of landing page */
 footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
+    color: black;
 }
 
+/* Styles h2 heading within footer area */
 footer h2 {
     font-size: 20px;
 }
