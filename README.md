@@ -7,9 +7,9 @@ the HTML document to better adhere to recommended accessibility guidelines.
 
 Repetition of elements within the CSS style sheet has been minimized, while added comments provide brief descriptions of each element and its properties as they
 relate to the main landing page.
+<br>
 
-<img width="800" alt="Screen Shot 2021-07-30 at 11 14 18 AM" src="https://user-images.githubusercontent.com/86588318/127688954-812f4ef3-461e-4f2c-88ab-639fb2fce4d2.png">
+<img width="800" alt="Screen Shot 2021-07-30 at 12 55 38 PM" src="https://user-images.githubusercontent.com/86588318/127693173-303492ce-d7c8-438a-8310-555df4dbec66.png">
 
-<img width="800" alt="Screen Shot 2021-07-30 at 11 14 35 AM" src="https://user-images.githubusercontent.com/86588318/127689556-e83e5561-d1b2-4486-b331-97c89494427e.png">
 
 Deployed page: <a href="https://ggzaragoza.github.io/Zaragoza-HW-Wk1-CodeRefactor/">https://ggzaragoza.github.io/Zaragoza-HW-Wk1-CodeRefactor/</a>
