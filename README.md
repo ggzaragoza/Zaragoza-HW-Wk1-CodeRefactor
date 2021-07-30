@@ -11,5 +11,6 @@ relate to the main landing page.
 
 <img width="800" alt="Screen Shot 2021-07-30 at 12 55 38 PM" src="https://user-images.githubusercontent.com/86588318/127693173-303492ce-d7c8-438a-8310-555df4dbec66.png">
 
+<img width="800" alt="Screen Shot 2021-07-30 at 12 55 55 PM" src="https://user-images.githubusercontent.com/86588318/127693301-bb1a6e9e-17de-44f7-aed4-4ebe76923dec.png">
 
 Deployed page: <a href="https://ggzaragoza.github.io/Zaragoza-HW-Wk1-CodeRefactor/">https://ggzaragoza.github.io/Zaragoza-HW-Wk1-CodeRefactor/</a>
