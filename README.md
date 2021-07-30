@@ -9,3 +9,5 @@ Repetition of elements within the CSS style sheet has been minimized, while adde
 relate to the main landing page.
 
 <img width="800" alt="Screen Shot 2021-07-30 at 11 14 18 AM" src="https://user-images.githubusercontent.com/86588318/127688954-812f4ef3-461e-4f2c-88ab-639fb2fce4d2.png">
+
+<img width="800" alt="Screen Shot 2021-07-30 at 11 14 35 AM" src="https://user-images.githubusercontent.com/86588318/127689556-e83e5561-d1b2-4486-b331-97c89494427e.png">
